@@ -80,3 +80,11 @@ sync-docs.sh
 # Dart vendor files #
 #####################
 dart/vendor/
+
+# Dart/Flutter generated files #
+#################################
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+.packages
